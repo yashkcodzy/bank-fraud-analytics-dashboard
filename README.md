@@ -19,8 +19,22 @@ This project aims to analyze bank transactions and detect fraudulent activities 
 Bank Transaction Fraud Detection Dataset (CSV)
 
 ## Project Status
-🟢 Sprint 0 - Project Initialization
+🟢 Sprint 0 - completed
+    sprint 01 - completed
+    sprint 02 - completed
 
+    
+## Sprint 2 Completed
+
+### Data Modeling
+- Created Star Schema
+- Created Dim_Customer
+- Created Dim_Branch
+- Created Dim_Merchant
+- Created Dim_Device
+- Created Dim_Payment
+- Created Master Calendar
+- Established One-to-Many Relationships
 ## Folder Structure
 - data/
 - docs/
