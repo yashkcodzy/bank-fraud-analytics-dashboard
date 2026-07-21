@@ -157,7 +157,6 @@ The project follows a **Star Schema**.
 
 # 📸 Dashboard Preview
 
-(Add dashboard screenshots here.)
 
 ---
 
